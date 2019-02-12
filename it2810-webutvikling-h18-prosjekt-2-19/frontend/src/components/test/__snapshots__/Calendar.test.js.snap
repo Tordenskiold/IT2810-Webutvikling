@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Calendar-component renders correctly 1`] = `
+<div
+  className="react-datepicker-wrapper"
+>
+  <div
+    className="react-datepicker__input-container"
+  >
+    <button
+      className="example"
+      onClick={[Function]}
+      type="button"
+    >
+      11/16/2018
+    </button>
+  </div>
+</div>
+`;

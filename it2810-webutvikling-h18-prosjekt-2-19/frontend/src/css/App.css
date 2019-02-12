@@ -1,0 +1,102 @@
+body {
+  background-color: #f7f7f7;
+  padding-bottom: 80px;
+}
+
+.App {
+  text-align: center;
+  color: #333;
+}
+
+h1 {
+  font-weight: 400;
+}
+
+#next {
+  background-color: #eee;
+  color: #333;
+  border: 1px solid #ccc;
+  width: 800px;
+  height: 50px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#next:active {
+  background-color: #ccc;
+}
+
+.pageLabel {
+  font-size: 0.8em;
+  color: #ccc;
+}
+
+.logo {
+  margin-top: 10vmin;
+  height: 15vmin;
+}
+.logo:hover {
+  transform: rotate(360deg);
+  transition: all 0.5s;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.myDiv {
+  margin-left: 20px;
+  margin-top: 16px;
+}
+
+.firstDiv {
+  margin-top: 15px;
+}
+
+.myLabel {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.myDivDropdown {
+  margin-left: 5px;
+  margin-top: 15px;
+  width: 150px;
+}
+
+.Row {
+  margin-top: 20px;
+}
+
+.example {
+  background-color: white;
+  width: 150px;
+  height: 37px;
+  border-radius: 5px;
+  border-width: 1px;
+  font-size: 15px;
+  border-bottom-color: white;
+  border-left-color: #a9a9a9;
+  border-top-color: #a9a9a9;
+  border-right-color: white;
+}

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing URLMenu-component Renders correctly 1`] = `
+<div
+  id="urldiv"
+>
+  <button
+    className="submitButton"
+    onClick={[Function]}
+    type="button"
+  >
+    +
+  </button>
+</div>
+`;

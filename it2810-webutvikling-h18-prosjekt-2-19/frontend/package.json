@@ -1,0 +1,52 @@
+{
+  "name": "test-app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://it2810-19.idi.ntnu.no/prosjekt4",
+  "dependencies": {
+    "@material-ui/core": "^3.4.0",
+    "axios": "^0.18.0",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "dateformat": "^3.0.3",
+    "eslint-config-airbnb": "^17.1.0",
+    "jest": "^23.6.0",
+    "material-ui": "^0.20.2",
+    "material-ui-search-bar": "^0.4.2",
+    "mobx": "^5.6.0",
+    "mobx-react": "^5.3.6",
+    "moment": "^2.22.2",
+    "prop-types": "^15.6.2",
+    "rc": "^1.2.8",
+    "react": "^16.6.0",
+    "react-date-picker": "^7.0.0",
+    "react-datepicker": "^1.7.0",
+    "react-datetime-picker": "^2.0.0",
+    "react-dom": "^16.6.0",
+    "react-dropdown": "^1.6.2",
+    "react-scripts": "2.0.5",
+    "react-search-field": "0.0.3",
+    "react-select": "^2.1.1",
+    "react-test-renderer": "^16.6.3",
+    "simple-flexbox": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "cypress": "^3.1.1"
+  }
+}
